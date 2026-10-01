@@ -36,21 +36,21 @@ I turn complex workflows into clear, scalable digital products.
 ## Tools & Technology
 
 <div align="center">
-  <kbd><img height="40" src="assets/tech/figma.svg" alt="Figma" title="Figma"></kbd>
+  <kbd><img width="40" height="40" src="assets/tech/figma-official.svg" alt="Figma" title="Figma"></kbd>
   &nbsp;
-  <kbd><img height="40" src="assets/tech/material-design.svg" alt="Material Design" title="Material Design"></kbd>
+  <kbd><img width="40" height="40" src="assets/tech/material-design-official.svg" alt="Material Design" title="Material Design"></kbd>
   &nbsp;
-  <kbd><img height="40" src="assets/tech/jira.svg" alt="Jira" title="Jira"></kbd>
+  <kbd><img width="95" height="40" src="assets/tech/jira-official.svg" alt="Jira" title="Jira"></kbd>
   &nbsp;
-  <kbd><img height="40" src="assets/tech/github.svg" alt="GitHub" title="GitHub"></kbd>
+  <kbd><img width="40" height="40" src="assets/tech/github-official.svg" alt="GitHub" title="GitHub"></kbd>
   &nbsp;
-  <kbd><img height="40" src="assets/tech/html5.svg" alt="HTML5" title="HTML5"></kbd>
+  <kbd><img width="40" height="40" src="assets/tech/html5-official.svg" alt="HTML5" title="HTML5"></kbd>
   &nbsp;
-  <kbd><img height="40" src="assets/tech/css3.svg" alt="CSS3" title="CSS3"></kbd>
+  <kbd><img width="35" height="40" src="assets/tech/css3-official.svg" alt="CSS3" title="CSS3"></kbd>
   &nbsp;
-  <kbd><img height="40" src="assets/tech/javascript.svg" alt="JavaScript" title="JavaScript"></kbd>
+  <kbd><img width="40" height="40" src="assets/tech/javascript-official.svg" alt="JavaScript" title="JavaScript"></kbd>
   &nbsp;
-  <kbd><img height="40" src="assets/tech/wordpress.svg" alt="WordPress" title="WordPress"></kbd>
+  <kbd><img width="40" height="40" src="assets/tech/wordpress-official.svg" alt="WordPress" title="WordPress"></kbd>
 </div>
 
 <br><br>
