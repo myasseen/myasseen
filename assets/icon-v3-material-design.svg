@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 512 512" role="img" aria-label="Material Design">
-<circle cx="256" cy="256" r="232" fill="#808080"/>
-<path d="M96 96h320L256 416 96 96Z" fill="#fff"/>
-<path d="M96 96v320h160L96 96Z" fill="#bdbdbd"/>
-<path d="M416 96v320H256L416 96Z" fill="#9e9e9e"/>
-</svg>

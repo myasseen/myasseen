@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="74" height="56" viewBox="0 0 148 112" role="img" aria-label="Jira">
-<defs><linearGradient id="j1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2684FF"/><stop offset="1" stop-color="#0052CC"/></linearGradient></defs>
-<g transform="translate(8 18)">
-<path d="M40 0H18c0 10 8 18 18 18h4v4c0 10 8 18 18 18V6c0-3-2-6-6-6H40Z" fill="#2684FF"/>
-<path d="M26 18H4c0 10 8 18 18 18h4v4c0 10 8 18 18 18V24c0-3-2-6-6-6H26Z" fill="url(#j1)"/>
-</g>
-<text x="73" y="69" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#172B4D">Jira</text>
-</svg>

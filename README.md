@@ -36,21 +36,21 @@ I turn complex workflows into clear, scalable digital products.
 ## Tools & Technology
 
 <div align="center">
-  <img width="56" src="assets/icon-v3-figma.svg" alt="Figma" title="Figma"/>
-  &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-v3-material-design.svg" alt="Material Design" title="Material Design"/>
-  &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-v3-jira.svg" alt="Jira" title="Jira"/>
-  &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-github.svg" alt="GitHub" title="GitHub"/>
-  &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-v3-html5.svg" alt="HTML" title="HTML"/>
-  &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-v3-css3.svg" alt="CSS" title="CSS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-v3-javascript.svg" alt="JavaScript" title="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-v3-wordpress.svg" alt="WordPress" title="WordPress"/>
+  <kbd><img height="40" src="assets/tech/figma.svg" alt="Figma" title="Figma"></kbd>
+  &nbsp;
+  <kbd><img height="40" src="assets/tech/material-design.svg" alt="Material Design" title="Material Design"></kbd>
+  &nbsp;
+  <kbd><img height="40" src="assets/tech/jira.svg" alt="Jira" title="Jira"></kbd>
+  &nbsp;
+  <kbd><img height="40" src="assets/tech/github.svg" alt="GitHub" title="GitHub"></kbd>
+  &nbsp;
+  <kbd><img height="40" src="assets/tech/html5.svg" alt="HTML5" title="HTML5"></kbd>
+  &nbsp;
+  <kbd><img height="40" src="assets/tech/css3.svg" alt="CSS3" title="CSS3"></kbd>
+  &nbsp;
+  <kbd><img height="40" src="assets/tech/javascript.svg" alt="JavaScript" title="JavaScript"></kbd>
+  &nbsp;
+  <kbd><img height="40" src="assets/tech/wordpress.svg" alt="WordPress" title="WordPress"></kbd>
 </div>
 
 <br><br>

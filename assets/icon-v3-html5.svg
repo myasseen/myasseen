@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 512 512" role="img" aria-label="HTML5">
-<text x="256" y="86" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="74" font-weight="900" fill="#111">HTML</text>
-<path fill="#E44D26" d="M90 110h332l-30 334-136 38-136-38L90 110Z"/>
-<path fill="#F16529" d="M256 454l110-30 26-286H256v316Z"/>
-<path fill="#EBEBEB" d="M256 262H196l-4-46h64v-44H144l12 134h100v-44Zm0 116-1 .2-51-14-3-36h-44l6 70 92 26 1-.3v-46Z"/>
-<path fill="#fff" d="M256 172v44h105l4-44H256Zm0 90v44h65l-6 58-59 16v46l100-28 13-136H256Z"/>
-</svg>
