@@ -36,21 +36,21 @@ I turn complex workflows into clear, scalable digital products.
 ## Tools & Technology
 
 <div align="center">
-  <kbd><img width="40" height="40" src="assets/tech/figma-official.svg" alt="Figma" title="Figma"></kbd>
+  <img src="assets/tech/figma-official.svg" alt="Figma" title="Figma">
   &nbsp;
-  <kbd><img width="40" height="40" src="assets/tech/material-design-official.svg" alt="Material Design" title="Material Design"></kbd>
+  <img src="assets/tech/material-design-official.svg" alt="Material Design" title="Material Design">
   &nbsp;
-  <kbd><img width="95" height="40" src="assets/tech/jira-official.svg" alt="Jira" title="Jira"></kbd>
+  <img src="assets/tech/jira-official.svg" alt="Jira" title="Jira">
   &nbsp;
-  <kbd><img width="40" height="40" src="assets/tech/github-official.svg" alt="GitHub" title="GitHub"></kbd>
+  <img src="assets/tech/github-official.svg" alt="GitHub" title="GitHub">
   &nbsp;
-  <kbd><img width="40" height="40" src="assets/tech/html5-official.svg" alt="HTML5" title="HTML5"></kbd>
+  <img src="assets/tech/html5-official.svg" alt="HTML5" title="HTML5">
   &nbsp;
-  <kbd><img width="35" height="40" src="assets/tech/css3-official.svg" alt="CSS3" title="CSS3"></kbd>
+  <img src="assets/tech/css3-official.svg" alt="CSS3" title="CSS3">
   &nbsp;
-  <kbd><img width="40" height="40" src="assets/tech/javascript-official.svg" alt="JavaScript" title="JavaScript"></kbd>
+  <img src="assets/tech/javascript-official.svg" alt="JavaScript" title="JavaScript">
   &nbsp;
-  <kbd><img width="40" height="40" src="assets/tech/wordpress-official.svg" alt="WordPress" title="WordPress"></kbd>
+  <img src="assets/tech/wordpress-official.svg" alt="WordPress" title="WordPress">
 </div>
 
 <br><br>
@@ -81,9 +81,6 @@ Technical understanding helps me design for **feasibility, responsive behavior, 
 
 <img alt="Clarity over complexity" src="assets/badge-principle-clarity.svg">
 <img alt="Systems over screens" src="assets/badge-principle-systems.svg">
-
-<br>
-
 <img alt="Useful over impressive" src="assets/badge-principle-useful.svg">
 <img alt="Iterate with evidence" src="assets/badge-principle-iterate.svg">
 

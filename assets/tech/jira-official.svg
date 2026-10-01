@@ -1,4 +1,7 @@
-<svg width="76" height="32" viewBox="0 0 76 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="56" viewBox="0 0 96 56" role="img" aria-label="Jira">
+  <rect width="96" height="56" rx="8" fill="#F3F4F6"/>
+  <svg x="8" y="12" width="80" height="32" viewBox="0 0 76 32" preserveAspectRatio="xMidYMid meet">
+
 <g id="logo-gradient-blue-jira">
 <g id="Jira">
 <path d="M38.8963 6.13371H41.7283V20.1309C41.7283 23.8217 40.0434 26.3983 36.1359 26.3983C34.6661 26.3983 33.5189 26.1546 32.7302 25.876V23.195C33.5906 23.5432 34.6302 23.7173 35.6698 23.7173C38.0717 23.7173 38.8963 22.3245 38.8963 20.305V6.13371Z" fill="#253858"/>
@@ -22,4 +25,6 @@
 <stop offset="1" stop-color="#2684FF"/>
 </linearGradient>
 </defs>
+
+  </svg>
 </svg>
