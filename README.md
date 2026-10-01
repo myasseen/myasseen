@@ -8,16 +8,16 @@ I turn complex workflows into clear, scalable digital products.
 
 <br>
 
-<img alt="Product Design" src="https://img.shields.io/badge/Product%20Design-4F46E5?style=for-the-badge">
-<img alt="Enterprise UX" src="https://img.shields.io/badge/Enterprise%20UX-2563EB?style=for-the-badge">
-<img alt="Design Systems" src="https://img.shields.io/badge/Design%20Systems-7C3AED?style=for-the-badge">
-<img alt="Digital Products" src="https://img.shields.io/badge/Digital%20Products-0891B2?style=for-the-badge">
+<img alt="Product Design" src="assets/badge-product-design.svg">
+<img alt="Enterprise UX" src="assets/badge-enterprise-ux.svg">
+<img alt="Design Systems" src="assets/badge-design-systems.svg">
+<img alt="Digital Products" src="assets/badge-digital-products.svg">
 
 <br><br>
 
-<a href="https://mahmoudyasseen.com/"><img alt="Website" src="https://img.shields.io/badge/Website-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/mahmoudyasseen/"><img alt="LinkedIn" src="assets/linkedin-button.svg" height="28"></a>
-<a href="https://www.behance.net/myasseen"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://mahmoudyasseen.com/"><img alt="Website" src="assets/button-website.svg" height="36"></a>
+<a href="https://www.linkedin.com/in/mahmoudyasseen/"><img alt="LinkedIn" src="assets/button-linkedin.svg" height="36"></a>
+<a href="https://www.behance.net/myasseen"><img alt="Behance" src="assets/button-behance.svg" height="36"></a>
 
 </div>
 
@@ -27,8 +27,8 @@ I turn complex workflows into clear, scalable digital products.
 
 | Product & UX | Interface Design | Digital Products |
 | :---: | :---: | :---: |
-| Enterprise UX, product design & case studies | UI explorations, digital experiences & selected interface work | Practical systems & tools by Yasseen OS |
-| [![Portfolio](https://img.shields.io/badge/View%20Portfolio-4F46E5?style=flat-square)](https://mahmoudyasseen.com/portfolio/) | [![Behance](https://img.shields.io/badge/View%20Work-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/myasseen) | [![Products](https://img.shields.io/badge/View%20Products-0891B2?style=flat-square)](https://mahmoudyasseen.com/products/) |
+| Enterprise UX, product design & case studies | UI explorations, digital experiences & selected interface work | Practical systems & tools by Yasseen DS |
+| <a href="https://mahmoudyasseen.com/portfolio/"><img alt="View Portfolio" src="assets/button-portfolio.svg" height="32"></a> | <a href="https://www.behance.net/myasseen"><img alt="View Work" src="assets/button-work.svg" height="32"></a> | <a href="https://mahmoudyasseen.com/products/"><img alt="View Products" src="assets/button-products.svg" height="32"></a> |
 
 <br>
 
@@ -56,10 +56,10 @@ I turn complex workflows into clear, scalable digital products.
 
 <div align="center">
 
-<img alt="Design Systems" src="https://img.shields.io/badge/Design%20Systems-4F46E5?style=flat-square">
-<img alt="Product Strategy" src="https://img.shields.io/badge/Product%20Strategy-2563EB?style=flat-square">
-<img alt="UX Research" src="https://img.shields.io/badge/UX%20Research-7C3AED?style=flat-square">
-<img alt="Prototyping" src="https://img.shields.io/badge/Prototyping-0891B2?style=flat-square">
+<img alt="Design Systems" src="assets/badge-skill-design-systems.svg">
+<img alt="Product Strategy" src="assets/badge-skill-product-strategy.svg">
+<img alt="UX Research" src="assets/badge-skill-ux-research.svg">
+<img alt="Prototyping" src="assets/badge-skill-prototyping.svg">
 
 </div>
 
@@ -78,12 +78,12 @@ Technical understanding helps me design for **feasibility, responsive behavior, 
 
 <div align="center">
 
-<img alt="Clarity over complexity" src="https://img.shields.io/badge/Clarity%20over%20complexity-2563EB?style=for-the-badge">
-<img alt="Systems over screens" src="https://img.shields.io/badge/Systems%20over%20screens-7C3AED?style=for-the-badge">
+<img alt="Clarity over complexity" src="assets/badge-principle-clarity.svg">
+<img alt="Systems over screens" src="assets/badge-principle-systems.svg">
 
 <br>
 
-<img alt="Useful over impressive" src="https://img.shields.io/badge/Useful%20over%20impressive-059669?style=for-the-badge">
-<img alt="Iterate with evidence" src="https://img.shields.io/badge/Iterate%20with%20evidence-D97706?style=for-the-badge">
+<img alt="Useful over impressive" src="assets/badge-principle-useful.svg">
+<img alt="Iterate with evidence" src="assets/badge-principle-iterate.svg">
 
 </div>
