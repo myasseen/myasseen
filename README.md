@@ -18,7 +18,7 @@ I turn complex workflows into clear, scalable digital products.
 <a href="https://mahmoudyasseen.com/"><img alt="Website" src="assets/button-website.svg" height="36"></a>
 <a href="https://www.linkedin.com/in/mahmoudyasseen/"><img alt="LinkedIn" src="assets/button-linkedin.svg" height="36"></a>
 <a href="https://www.behance.net/myasseen"><img alt="Behance" src="assets/button-behance.svg" height="36"></a>
-<a href="https://www.figma.com/@myasseen"><img alt="Figma Community" src="assets/button-figma-community.svg" height="36"></a>
+<a href="https://www.figma.com/@yasseen"><img alt="Figma Community" src="assets/button-figma-community.svg" height="36"></a>
 
 </div>
 
