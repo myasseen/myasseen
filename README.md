@@ -18,6 +18,7 @@ I turn complex workflows into clear, scalable digital products.
 <a href="https://mahmoudyasseen.com/"><img alt="Website" src="assets/button-website.svg" height="36"></a>
 <a href="https://www.linkedin.com/in/mahmoudyasseen/"><img alt="LinkedIn" src="assets/button-linkedin.svg" height="36"></a>
 <a href="https://www.behance.net/myasseen"><img alt="Behance" src="assets/button-behance.svg" height="36"></a>
+<a href="https://www.figma.com/@myasseen"><img alt="Figma Community" src="assets/button-figma-community.svg" height="36"></a>
 
 </div>
 
@@ -35,21 +36,21 @@ I turn complex workflows into clear, scalable digital products.
 ## Tools & Technology
 
 <div align="center">
-  <img width="56" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/>
+  <img width="56" src="assets/icon-figma.svg" alt="Figma" title="Figma"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_design.png" alt="Material Design" title="Material Design"/>
+  <img width="56" src="assets/icon-material-design.svg" alt="Material Design" title="Material Design"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/>
+  <img width="56" src="assets/icon-jira.svg" alt="Jira" title="Jira"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
+  <img width="56" src="assets/icon-github.svg" alt="GitHub" title="GitHub"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
+  <img width="56" src="assets/icon-html.svg" alt="HTML" title="HTML"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
+  <img width="56" src="assets/icon-css.svg" alt="CSS" title="CSS"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img width="56" src="assets/icon-javascript.svg" alt="JavaScript" title="JavaScript"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" alt="WordPress" title="WordPress"/>
+  <img width="56" src="assets/icon-wordpress.svg" alt="WordPress" title="WordPress"/>
 </div>
 
 <br><br>
