@@ -36,21 +36,21 @@ I turn complex workflows into clear, scalable digital products.
 ## Tools & Technology
 
 <div align="center">
-  <img width="56" src="assets/icon-figma.svg" alt="Figma" title="Figma"/>
+  <img width="56" src="assets/icon-v3-figma.svg" alt="Figma" title="Figma"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-material-design.svg" alt="Material Design" title="Material Design"/>
+  <img width="56" src="assets/icon-v3-material-design.svg" alt="Material Design" title="Material Design"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-jira.svg" alt="Jira" title="Jira"/>
+  <img width="56" src="assets/icon-v3-jira.svg" alt="Jira" title="Jira"/>
   &nbsp;&nbsp;&nbsp;
   <img width="56" src="assets/icon-github.svg" alt="GitHub" title="GitHub"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-html.svg" alt="HTML" title="HTML"/>
+  <img width="56" src="assets/icon-v3-html5.svg" alt="HTML" title="HTML"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-css.svg" alt="CSS" title="CSS"/>
+  <img width="56" src="assets/icon-v3-css3.svg" alt="CSS" title="CSS"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-javascript.svg" alt="JavaScript" title="JavaScript"/>
+  <img width="56" src="assets/icon-v3-javascript.svg" alt="JavaScript" title="JavaScript"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="56" src="assets/icon-wordpress.svg" alt="WordPress" title="WordPress"/>
+  <img width="56" src="assets/icon-v3-wordpress.svg" alt="WordPress" title="WordPress"/>
 </div>
 
 <br><br>
